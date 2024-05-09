@@ -1,0 +1,1 @@
+export const exmaplesPrompts = [{title: 'What is the capital of Madagascar?', image: 'compass'}, {title: "Help me to write a poetry about...", image: 'bulb'}, {title: "How to cook oatmeal biscuits?", image: 'pencil'}, {title: "Write an essay about Napoleon", image: 'bulb'}]
